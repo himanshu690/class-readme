@@ -58,7 +58,7 @@ Examples: - Ubuntu - Amazon Linux - Windows Server
 Think of AMI as: \> The blueprint for your VM.
 
 ------------------------------------------------------------------------
-
+tried to make some changes 
 ## 2️⃣ Instance Type
 
 Defines: - CPU - RAM - Network performance
